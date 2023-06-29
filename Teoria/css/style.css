@@ -1,0 +1,76 @@
+/* Integração inicial */
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: green;
+}
+
+#title {
+  color: blue;
+}
+
+.text {
+  color: purple;
+  background-color: aqua;
+  font-size: 100px;
+}
+
+p,
+.title2 {
+  color: red;
+}
+
+.title2 {
+  font-size: 80px;
+}
+
+.background-image {
+  text-align: center;
+  background-image: url("../img/meteoro.jpg");
+  padding: 20px;
+  color: white;
+}
+
+/* No css seletor de class ganha de tag e id ganha de todos (é mais important) */
+
+/* Não se pode repetir um id, para selecionar outro elemento
+
+Para selecionar (indentificar) vários elementos utilizamos as classe */
+
+/* largura e altura */
+
+#width-height {
+  width: 200px;
+  height: 100px;
+  background-color: black;
+}
+
+/* padding espaçamento interno */
+
+#padding {
+  background-color: magenta;
+  padding: 20px;
+}
+
+/* margin espaçamento externo */
+
+#margin {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 20px;
+}
+
+/* Border */
+
+#border {
+  border: 3px solid #ff0000;
+  width: 100px;
+  height: 100px;
+  padding: 40px;
+  margin: 30px;
+  border-radius: 40px;
+}
