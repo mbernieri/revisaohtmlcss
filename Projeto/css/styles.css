@@ -96,7 +96,7 @@ body {
 /* Formulário */
 #form-container {
   flex: 1;
-  background-image: url("/img/pattern.png");
+  background-image: url("/Projeto/img/pattern.png");
   background-size: cover;
   color: #fff;
 }
